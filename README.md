@@ -12,7 +12,7 @@ System > File Manager > Select Add Source
 
 For "Enter the paths or browse for the media locations" select "None" and input:
 
-**https://umbrellaplug.github.io**
+**https://grogu.github.io**
 
 Then Select Done. For "Enter a name for this media source" input "Umbrella" or whatever you would like to name the source.
 Click Ok.

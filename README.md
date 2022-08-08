@@ -12,15 +12,16 @@ System > File Manager > Select Add Source
 
 For "Enter the paths or browse for the media locations" select "None" and input:
 
-**https://grogu.github.io**
+**https://alectronical.github.io/grogu**
 
-Then Select Done. For "Enter a name for this media source" input "Umbrella" or whatever you would like to name the source.
+Then Select Done. For "Enter a name for this media source" input "Grogu" or whatever you would like to name the source.
 Click Ok.
 
 From the Kodi Homescreen select "Add-ons".
 At the top on the left hand side select the box icon under "Add-ons" (Add-on Browser).
 
-Install the Umbrella repository by clicking on Install from Zip File then "Umbrella" then repository.umbrella-x-x-x.zip and waiting for the repository installed icon to appear in the top right corner.
+First, install the Cocoscrapers dependency package by clicking on Install from Zip File then "Grogu(Umbrella)" then script.module.cocoscrapers-x-x-x.zip and waiting for the installed icon to appear in the top right corner.
+Next, install the Umbrella Repo package by clicking on Install from Zip File then "Grogu(Umbrella)" then repository.umbrella-x-x-x.zip and waiting for the repository installed icon to appear in the top right corner.
 
 Select "Install From Repository" then Umbrella Repo then Video Add-ons then Umbrella. Click on Install and wait for the Add-on Enabled Notification.
 

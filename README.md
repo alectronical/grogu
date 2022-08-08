@@ -21,6 +21,7 @@ From the Kodi Homescreen select "Add-ons".
 At the top on the left hand side select the box icon under "Add-ons" (Add-on Browser).
 
 First, install the Cocoscrapers dependency package by clicking on Install from Zip File then "Grogu(Umbrella)" then script.module.cocoscrapers-x-x-x.zip and waiting for the installed icon to appear in the top right corner.
+
 Next, install the Umbrella Repo package by clicking on Install from Zip File then "Grogu(Umbrella)" then repository.umbrella-x-x-x.zip and waiting for the repository installed icon to appear in the top right corner.
 
 Select "Install From Repository" then Umbrella Repo then Video Add-ons then Umbrella. Click on Install and wait for the Add-on Enabled Notification.

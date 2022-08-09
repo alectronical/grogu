@@ -3,7 +3,7 @@
 	url = https://github.com/Ezra-Hubbard/script.module.myaccounts#
 [submodule "matrix/script.module.umbrellascrapers"]
 	path = matrix/script.module.umbrellascrapers
-	url = https://github.com/umbrellaplug/script.module.umbrellascrapers
+	url = https://github.com/alectronical/grogu/script.module.umbrellascrapers
 [submodule "grogu/script.module.cocoscrapers"]#
 	path = grogu/script.module.cocoscrapers-1.0.1.zip#
 	url = https://github.com/alectronical/grogu/script.module.cocoscrapers-1.0.1.zip#

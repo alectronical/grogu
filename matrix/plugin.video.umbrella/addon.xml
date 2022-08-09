@@ -3,7 +3,6 @@
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="context.umbrella" version="1.2.6"/>
 		<import addon="script.module.myaccounts" version="2.0.9" />
-		<import addon="script.module.umbrellascrapers" version="0.0.20" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.beautifulsoup4" />
 		<import addon="script.module.metahandler"  version="5.0.0" optional="true" />

@@ -1,3 +1,6 @@
 [submodule "matrix/script.module.myaccounts"]#
 	path = matrix/script.module.myaccounts#
 	url = https://github.com/Ezra-Hubbard/script.module.myaccounts#
+[submodule "grogu/script.module.cocoscrapers"]#
+	path = grogu/script.module.cocoscrapers-1.0.1.zip#
+	url = https://github.com/alectronical/grogu/script.module.cocoscrapers-1.0.1.zip#
